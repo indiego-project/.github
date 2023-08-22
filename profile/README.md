@@ -4,10 +4,10 @@
 
 ## 👩🏻‍💻 팀원 소개  
 
-|시몬|김경배|김혜원|박연환|김정희|박성호|이재혁|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img alt="시몬" src="" height="100" width="100">|<img alt="김경배" src="https://user-images.githubusercontent.com/80394894/215560921-14de944c-6e0a-48f8-816d-56533ca34ce1.png" height="100" width="100">|<img alt="김혜원" src="https://user-images.githubusercontent.com/80394894/215561031-b94434f6-1fd3-429a-b374-aa4897545d4b.png" height="100" width="100">|<img alt="박연환" src="https://user-images.githubusercontent.com/80394894/215561204-8e085531-f851-48d4-bb3e-e8aad142565a.png" height="100" width="100">|<img alt="김정희" src="https://user-images.githubusercontent.com/80394894/215561134-da53fca5-b85c-4d2f-b077-e83a707f3de0.png" height="100" width="100">|<img alt="이재혁" src="https://user-images.githubusercontent.com/80394894/215555107-23fa07fe-fe13-4fe2-8c2f-572ba9f3917c.png" height="100" width="100">|<img alt="이재혁" src="https://user-images.githubusercontent.com/95069395/215324198-c238be32-d721-4c18-8cea-e56f8ca35486.png" height="100" width="100">|
-|**Mentor**|**FE**|**FE**|**FE**|**BE**|**BE**|**BE**|
+|시몬|최용원|박연환|김정희|박성호|
+|:---:|:---:|:---:|:---:|:---:|
+|<img alt="시몬" src="" height="150" width="150">|<img alt="최용원" src="" height="150" width="150">|<img alt="박연환" src="https://user-images.githubusercontent.com/80394894/215561204-8e085531-f851-48d4-bb3e-e8aad142565a.png" height="150" width="150">|<img alt="김정희" src="https://user-images.githubusercontent.com/80394894/215561134-da53fca5-b85c-4d2f-b077-e83a707f3de0.png" height="150" width="150">|<img alt="박성호" src="https://user-images.githubusercontent.com/80394894/215555107-23fa07fe-fe13-4fe2-8c2f-572ba9f3917c.png" height="150" width="150">|
+|**Mentor**|**FE**|**FE**|**BE**|**BE**|
 
 </br>
 
